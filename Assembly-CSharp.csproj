@@ -155,7 +155,7 @@
     <Compile Include="Assets\UnityEngine.UI\UI\Core\VertexModifiers\PositionAsUV1.cs" />
     <Compile Include="Assets\UnityEngine.UI\UI\Core\VertexModifiers\Shadow.cs" />
     <None Include="Assets\Sprites_ClipWithAngle.shader" />
-    <None Include="Assets\UI-Default.shader" />
+    <None Include="Assets\UI-DefaultWithMask.shader" />
     <None Include="Assets\UI-Default3.shader" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
